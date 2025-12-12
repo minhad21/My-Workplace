@@ -103,24 +103,6 @@
 //   );
 // }
 
-// function
-// const calcAge = function (birthYear) {
-//   return 2025 - birthYear;
-// };
-
-// console.log(calcAge(2002));
-
-// function string(name, age) {
-//   return `this is ${name} and age is ${age}`;
-// }
-// console.log(string("emon", 30));
-// console.log(string("kayes", 16));
-
-// // Arrow Function
-// const calcSem = (semesterNO) => console.log(`my semester no is ${semesterNO}`);
-
-// calcSem(8);
-
 // part 1 challenge 1
 // const massMark = 78;
 // const heightMark = 1.69;

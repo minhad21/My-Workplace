@@ -1,3 +1,19 @@
+// function
+// const calcAge = function (birthYear) {
+//   return 2025 - birthYear;
+// };
+
+// console.log(calcAge(2002));
+
+// function string(name, age) {
+//   return `this is ${name} and age is ${age}`;
+// }
+// console.log(string("emon", 30));
+// console.log(string("kayes", 16));
+
+// // Arrow Function
+// const calcSem = (semesterNO) => console.log(`my semester no is ${semesterNO}`);
+// calcSem(8);
 //challenge1 part2 (arrow function)
 
 // const calcAvg = (p1, p2, p3) => {
@@ -69,3 +85,10 @@
 
 // human.calcBMI();
 // console.log(human);
+
+//part2 challenege2
+// dolphin and koalas compete 3 times and avg of scores calc
+// if dolphin win then avgdol = 2*avgkoala
+// if koala win then avgkoala = 2*avgdol
+// else no team wins
+//
